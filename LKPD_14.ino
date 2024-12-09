@@ -1,5 +1,5 @@
-Wawan Ervan Fazriansyah 
-XI TAV 3
+//Wawan Ervan Fazriansyah 
+//XI TAV 3
 #include<Wire.h>
 #include<SPI.h>
 #include<Adafruit_BMP280.h>
